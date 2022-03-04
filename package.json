@@ -1,0 +1,23 @@
+{
+  "name": "design-patterns-in-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoistCode/design-patterns-in-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoistCode/design-patterns-in-ts/issues"
+  },
+  "homepage": "https://github.com/MoistCode/design-patterns-in-ts#readme",
+  "dependencies": {
+    "ts-node": "^10.6.0",
+    "typescript": "^4.6.2"
+  }
+}
